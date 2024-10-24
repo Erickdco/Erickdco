@@ -19,6 +19,6 @@
    ### Desenvolvendo projetos com o propósito de impactar e melhorar experiências.
    
 
-   ### Entre em contato comigo através do meu e-mail:
+   #### Entre em contato comigo através do meu e-mail:
   - <a href="erick.dco@outlook.com">erick.dco@outlook.com</a>
   - <a href="erickcarva.olivira@gmail.com">erickcarva.olivera@gmail.com</a>
